@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpriderDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/SpriderDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpriderDemo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpriderDemo_main.iml" group="SpriderDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpriderDemo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpriderDemo_test.iml" group="SpriderDemo" />
+    </modules>
+  </component>
+</project>
